@@ -11,7 +11,7 @@ private static Scanner input=new Scanner(System.in);
 		do
 		{
 		int a,b,flag=0;
-		System.out.println("enter a and b values:");
+		System.out.println("enter a and b values to perform manipulations:");
 		a=input.nextInt();
 		b=input.nextInt();
 		operations operations=new operations();
